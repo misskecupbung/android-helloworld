@@ -3,7 +3,7 @@ Simple Hello World with Java and Android
 
 ### Requirements: 
 * Android Studio 4.0.1
-* Android SDK 10
+* Android SDK 30.0.4
 * Open JDK 11.0.8
 
 ### 
